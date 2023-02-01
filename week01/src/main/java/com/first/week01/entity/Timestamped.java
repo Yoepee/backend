@@ -1,4 +1,4 @@
-package com.first.week01.domain;
+package com.first.week01.entity;
 
 import jakarta.persistence.EntityListeners;
 import jakarta.persistence.MappedSuperclass;
