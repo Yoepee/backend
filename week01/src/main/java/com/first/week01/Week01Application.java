@@ -43,7 +43,7 @@ public class Week01Application {
                 System.out.println(course.getTutor());
             }
 
-            courseRepository.deleteAll();
+//            courseRepository.deleteAll();
         };
     }
 
